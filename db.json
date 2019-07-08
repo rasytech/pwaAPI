@@ -1,6 +1,5 @@
 {
-"produk": {
-{"id":1,"name":"Dragon, western bearded","category":"Goldenrod"},
+"produk": [{"id":1,"name":"Dragon, western bearded","category":"Goldenrod"},
 {"id":2,"name":"Golden eagle","category":"Yellow"},
 {"id":3,"name":"Whip-tailed wallaby","category":"Pink"},
 {"id":4,"name":"Shrike, crimson-breasted","category":"Indigo"},
@@ -19,6 +18,5 @@
 {"id":17,"name":"Red-billed hornbill","category":"Aquamarine"},
 {"id":18,"name":"Tokay gecko","category":"Indigo"},
 {"id":19,"name":"Squirrel, arctic ground","category":"Violet"},
-{"id":20,"name":"Asian openbill","category":"Violet"}
-  }
+{"id":20,"name":"Asian openbill","category":"Violet"}]
 }
