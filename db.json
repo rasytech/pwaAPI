@@ -1,0 +1,24 @@
+{
+"produk"{
+    [{"id":1,"name":"Dragon, western bearded","category":"Goldenrod"},
+{"id":2,"name":"Golden eagle","category":"Yellow"},
+{"id":3,"name":"Whip-tailed wallaby","category":"Pink"},
+{"id":4,"name":"Shrike, crimson-breasted","category":"Indigo"},
+{"id":5,"name":"Seal, common","category":"Pink"},
+{"id":6,"name":"Eagle, pallas's fish","category":"Goldenrod"},
+{"id":7,"name":"Northern fur seal","category":"Khaki"},
+{"id":8,"name":"Goose, andean","category":"Yellow"},
+{"id":9,"name":"Otter, oriental short-clawed","category":"Crimson"},
+{"id":10,"name":"Brown hyena","category":"Khaki"},
+{"id":11,"name":"Sambar","category":"Puce"},
+{"id":12,"name":"Boa, cook's tree","category":"Red"},
+{"id":13,"name":"Crested barbet","category":"Indigo"},
+{"id":14,"name":"Stork, black-necked","category":"Indigo"},
+{"id":15,"name":"Wambenger, red-tailed","category":"Aquamarine"},
+{"id":16,"name":"Kori bustard","category":"Purple"},
+{"id":17,"name":"Red-billed hornbill","category":"Aquamarine"},
+{"id":18,"name":"Tokay gecko","category":"Indigo"},
+{"id":19,"name":"Squirrel, arctic ground","category":"Violet"},
+{"id":20,"name":"Asian openbill","category":"Violet"}]
+  }
+}
